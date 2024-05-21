@@ -1,0 +1,3 @@
+The purpose of this project is to illustrate TFIDF (Term Frequency-Inverse Document Frequency) concepts and understanding how three documents can be similar to one another through certain words or phrases. 
+The three documents "doc1", "doc2", and "doc3" are simply placeholder documents that can have any text involved, including symbols. The tfidf.py file will run on the three placeholder document text files as well as tfidf_docs.txt.
+This program will return 3 preprocessed documents (that do not include stopwords and unnecessary symbols) and the final tfidf documents. 
