@@ -1,2 +1,3 @@
-The purpose of this project is to create a prototype movie recommendation system using Python. The program takes in two files, a ratings file and a movies file. 
-Eventually to find answers to certain problems such as average movie ratings, popular movies, and using previous users ratings on certain movie genres to recommend new movies to do so we utilize python dictionaries.
+This project aims to create a prototype movie recommendation system using Python. The program takes in two files, a ratings file and a movies file. 
+Eventually, we utilize Python dictionaries to find answers to certain problems such as finding average movie ratings, understanding popular movies, and using previous users' ratings on certain movie genres to recommend new movies.
+To implement this kind of system, we utilize Python dictionaries.
