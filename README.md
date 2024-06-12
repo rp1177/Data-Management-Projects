@@ -2,4 +2,5 @@ These projects represent my foundational understanding with the Python language 
 
 
 Language used: Python
+
 Libraries: CSV, Pandas, Matplotlib
