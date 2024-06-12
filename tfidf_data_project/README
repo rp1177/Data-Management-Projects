@@ -1,3 +1,9 @@
-The purpose of this project is to illustrate TFIDF (Term Frequency-Inverse Document Frequency) concepts and understanding how three documents can be similar to one another through certain words or phrases. 
+This project aims to illustrate TFIDF (Term Frequency-Inverse Document Frequency) concepts and understand how three documents can be similar to one another through certain words or phrases. 
 The three documents "doc1", "doc2", and "doc3" are simply placeholder documents that can have any text involved, including symbols. The tfidf.py file will run on the three placeholder document text files as well as tfidf_docs.txt.
 This program will return 3 preprocessed documents (that do not include stopwords and unnecessary symbols) and the final tfidf documents. 
+
+This was manually coded to understand the real-time calculations, steps, and formulas used to find word similarity within documents. Tfidf vectorizer library tools were not used for this. 
+
+
+To run this file, simply include 3 text documents called "doc1", "doc2", and "doc3" files with paragraphs you want to compare similarities to. Download the py file and run it on the compiler with the three
+text documents. The py file will return 3 preprocessed documents and the final tfidf scores with the certain words that are the most similar within the 3 documents. 
