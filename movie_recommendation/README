@@ -1,3 +1,6 @@
 This project aims to create a prototype movie recommendation system using Python. The program takes in two files, a ratings file and a movies file. 
 Eventually, we utilize Python dictionaries to find answers to certain problems such as finding average movie ratings, understanding popular movies, and using previous users' ratings on certain movie genres to recommend new movies.
 To implement this kind of system, we utilize Python dictionaries.
+
+
+To run this file, download the text and py files and execute them on a compiler.
