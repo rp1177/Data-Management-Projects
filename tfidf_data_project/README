@@ -1,9 +1,21 @@
-This project aims to illustrate TFIDF (Term Frequency-Inverse Document Frequency) concepts and understand how three documents can be similar to one another through certain words or phrases. 
-The three documents "doc1", "doc2", and "doc3" are simply placeholder documents that can have any text involved, including symbols. The tfidf.py file will run on the three placeholder document text files as well as tfidf_docs.txt.
-This program will return 3 preprocessed documents (that do not include stopwords and unnecessary symbols) and the final tfidf documents. 
+# TFIDF Document Similarity Project
 
-This was manually coded to understand the real-time calculations, steps, and formulas used to find word similarity within documents. Tfidf vectorizer library tools were not used for this. 
+#### Project Description
+This project is designed to illustrate the concepts of **TFIDF (Term Frequency-Inverse Document Frequency)** and how it can be used to determine the similarity between three documents based on certain words or phrases. The project does not use any library tools for TFIDF vectorization, instead, it is manually coded to understand the real-time calculations, steps, and formulas used to find word similarity within documents.
 
+#### Live Demo
+A live demo of the project is not currently available. 
 
-To run this file, simply include 3 text documents called "doc1", "doc2", and "doc3" files with paragraphs you want to compare similarities to. Download the py file and run it on the compiler with the three
-text documents. The py file will return 3 preprocessed documents and the final tfidf scores with the certain words that are the most similar within the 3 documents. 
+#### How to Build and Run
+To run this project, follow these steps:
+1. Prepare three text documents named "doc1", "doc2", and "doc3" with the content you want to compare for similarities.
+2. Download the `tfidf.py` file.
+3. Run the `tfidf.py` file on your Python compiler along with the three text documents.
+
+The program will return three preprocessed documents (excluding stopwords and unnecessary symbols) and the final TFIDF documents with scores indicating the most similar words within the three documents.
+
+#### Tech Used
+The project is developed using Python and does not rely on any external TFIDF vectorizer libraries.
+
+#### Development Process and Challenges
+The development process involved manual coding to understand the underlying calculations, steps, and formulas used in TFIDF. This approach was chosen over using library tools to gain a deeper understanding of the process. The main challenge encountered was ensuring the accurate implementation of the TFIDF calculations and preprocessing the documents to exclude stopwords and unnecessary symbols. Despite these challenges, the project successfully returns the preprocessed documents and the final TFIDF scores.
