@@ -9,7 +9,7 @@ These projects represent my foundational understanding of the Python language an
 - **CSV**: A module for Python used for reading and writing comma-separated values (CSV) files.
 - **Pandas**: A powerful data manipulation library for Python. It provides data structures and functions needed to manipulate structured data.
 - **Matplotlib**: A plotting library for Python. It provides a way to visually display data.
-
+  
 ## Key learning skills:
 
 1.) Understand and utilize the basic data structures involved in Python.
