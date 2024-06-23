@@ -13,7 +13,11 @@ These projects represent my foundational understanding of the Python language an
 ## Key learning skills:
 
 1.) Understand and utilize the basic data structures involved in Python.
+
 2.) Learn fundamental data cleaning processes such as dealing with null values and removing outliers/duplicates. (CSV & Pandas DataFrame)
+
 3.) To gain extra information, perform feature engineering from columns with existing information. 
+
 4.) Create and analyze readable graphs that illustrate crucial information and conclusions about data. (Pandas)
+
 5.) Demonstrate basic natural language processing skills (stemming, lemmatization, removing stopwords) without using the NLP library/sci-kit learn.
